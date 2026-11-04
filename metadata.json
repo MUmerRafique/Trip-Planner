@@ -1,0 +1,6 @@
+{
+  "name": "AI Trip Planner",
+  "description": "AI-powered personalized trip planner with interactive maps, day-by-day itineraries, real-time activity adjustments, budget tracking, and dietary food recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
